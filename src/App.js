@@ -1,4 +1,4 @@
-import Search from "./github-api/components/GithubSearch";
+import Search from "./components/GithubSearch";
 import "./App.css"
 
 function App() {
