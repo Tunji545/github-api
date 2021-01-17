@@ -1,5 +1,5 @@
 import Search from "./components/GithubSearch";
-import "./App.css"
+import "./index.css"
 
 function App() {
   return (
