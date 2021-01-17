@@ -2,9 +2,6 @@ import React from "react";
 
 class GithubProfile extends React.Component {
   render() {
-<<<<<<< HEAD
-    
-=======
   
     return (
       <div className="github-user">
